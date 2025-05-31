@@ -1,4 +1,4 @@
-👨‍💻 Just finished building a Pizza Billing System in Java! 🍕
+👨‍💻 Pizza Billing System in Java! 🍕
 
 This project helped me understand the core principles of:
 ✅ Object-Oriented Programming
